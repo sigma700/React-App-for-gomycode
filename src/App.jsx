@@ -7,16 +7,16 @@ function App() {
         <h1 className="font-extrabold text-[30px]">Allan.Dev</h1>
         <ul className="flex gap-[20px] bg-amber-50 p-[5px] rounded-[10px]">
           <li>
-            <a href="#"></a>Home
+            <a href="#">Home</a>
           </li>
           <li>
-            <a href="#"></a>About Us
+            <a href="#">About Us</a>
           </li>
           <li>
-            <a href="#"></a>Contact
+            <a href="#">Contact</a>
           </li>
           <li>
-            <a href="#"></a>Location
+            <a href="#">Location</a>
           </li>
         </ul>
       </div>
